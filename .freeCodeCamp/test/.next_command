@@ -61,3 +61,4 @@ help
 ./insert_data.sh
 help [[
 help test
+cp courses.csv courses_test.csv
